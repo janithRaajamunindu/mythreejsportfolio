@@ -80,7 +80,7 @@ export const myProjects = [
       {
         id: 2,
         name: "GSAP",
-        path: "assets/gsap-icon.png",
+        path: "assets/gsap.png",
       },
       {
         id: 3,
