@@ -63,7 +63,7 @@ export const myProjects = [
     subdesc:
       "Built as a unique Software-as-a-Service app with Next.js 15, GSAP, Three.js and Prismic, Suburbia is designed for optimal performance and scalability.",
     href: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
-    texture: "/textures/project/project1.mp4",
+    texture: "/textures/project/project11.mp4",
     logo: "/assets/project1-icon.svg",
     logoStyle: {
       backgroundColor: "#2A1816",
