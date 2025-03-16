@@ -132,13 +132,13 @@ export const myProjects = [
     ],
   },
   {
-    title: "CarePulse - Health Management System",
-    desc: "An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.",
+    title: "ICOLand - NFT website using HTML & CSS",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc.",
     subdesc:
-      "With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc.",
     href: "https://www.youtube.com/watch?v=lEflo_sc82g",
     texture: "/textures/project/project3.mp4",
-    logo: "/assets/project-logo3.png",
+    logo: "/assets/html-logo.png",
     logoStyle: {
       backgroundColor: "#60f5a1",
       background:
@@ -151,22 +151,22 @@ export const myProjects = [
       {
         id: 1,
         name: "React.js",
-        path: "/assets/react.svg",
+        path: "/assets/blank.png",
       },
       {
         id: 2,
         name: "TailwindCSS",
-        path: "assets/tailwindcss.png",
+        path: "assets/blank.png",
       },
       {
         id: 3,
         name: "TypeScript",
-        path: "/assets/typescript.png",
+        path: "/assets/blank.png",
       },
       {
         id: 4,
         name: "Framer Motion",
-        path: "/assets/framer.png",
+        path: "/assets/blank.png",
       },
     ],
   },
@@ -214,7 +214,7 @@ export const myProjects = [
       "This project was built using HTML and CSS focusing on creating a visually appealing and interactive scrolling experience. The animations are lightweight, easy to customize, and work well on both desktop and mobile screens. It was a fun way to explore scroll-based effects and improve front-end development skills.",
     href: "https://www.youtube.com/watch?v=Ahwoks_dawU",
     texture: "/textures/project/project5.mp4",
-    logo: "/assets/project-logo5.png",
+    logo: "/assets/html-logo.png",
     logoStyle: {
       backgroundColor: "#1C1A43",
       border: "0.2px solid #252262",
@@ -270,7 +270,7 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
       ? [-10, 10, 0]
       : isTablet
       ? [-12, 10, 0]
-      : [-24, 10, 0],
+      : [-24, 9, 0],
     targetPosition: isSmall
       ? [-5, -10, -10]
       : isMobile
