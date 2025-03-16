@@ -63,7 +63,7 @@ export const myProjects = [
     subdesc:
       "Built as a unique Software-as-a-Service app with Next.js 15, GSAP, Three.js and Prismic, Suburbia is designed for optimal performance and scalability.",
     href: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
-    texture: "/textures/project/project11.mp4",
+    texture: "/textures/project/project1.mp4",
     logo: "/assets/project1-logo.svg",
     logoStyle: {
       backgroundColor: "#2A1816",
@@ -98,10 +98,10 @@ export const myProjects = [
     title: "Personal Portfolio",
     desc: "An amazing portfolio featuring the Bolby cursor effect, showcasing all my projects and skills. Built with Next.js, Tailwind CSS, and Framer Motion.",
     subdesc:
-      "Designed with smooth animations and an interactive UI, this portfolio highlights my expertise in modern web development, blending creativity with performance.",
+      " Designed with smooth animations and an interactive UI, this portfolio highlights my expertise in modern web development, blending creativity with performance, while ensuring a seamless user experience across all devices.",
     href: "https://www.youtube.com/watch?v=y5vE8y_f_OM",
     texture: "/textures/project/project2.mp4",
-    logo: "/public/assets/project2-logo.png",
+    logo: "/assets/project2-logo.png",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
@@ -171,13 +171,13 @@ export const myProjects = [
     ],
   },
   {
-    title: "Horizon - Online Banking Platform",
-    desc: "Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.",
+    title: "Movie App - React",
+    desc: "A modern and responsive movie app built with React and TailwindCSS, leveraging the TMDB API to provide users with up-to-date movie details, trending films, and search functionality.",
     subdesc:
-      "Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.",
+      "This movie app offers an intuitive and visually appealing interface for discovering movies and exploring trending content. It integrates the TMDB API to fetch real-time movie data, including ratings, overviews, and posters. Styled with TailwindCSS.",
     href: "https://www.youtube.com/watch?v=PuOVqP_cjkE",
     texture: "/textures/project/project4.mp4",
-    logo: "/assets/project-logo4.png",
+    logo: "/assets/react.svg",
     logoStyle: {
       backgroundColor: "#0E1F38",
       border: "0.2px solid #0E2D58",
@@ -197,21 +197,21 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: "Javascript",
-        path: "/assets/javascript-logo.png",
+        name: "Figma",
+        path: "/assets/figma.svg",
       },
       {
         id: 4,
-        name: "Framer Motion",
-        path: "/assets/framer.png",
+        name: "TMDB API",
+        path: "/assets/tmdb.png",
       },
     ],
   },
   {
-    title: "Imaginify - AI Photo Manipulation App",
-    desc: "Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.",
+    title: "Scroll Animation - HTML & CSS",
+    desc: "The Scroll Animation Effects project is a fun and simple experiment I worked on in my free time.",
     subdesc:
-      "Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.",
+      "This project was built using HTML and CSS focusing on creating a visually appealing and interactive scrolling experience. The animations are lightweight, easy to customize, and work well on both desktop and mobile screens. It was a fun way to explore scroll-based effects and improve front-end development skills.",
     href: "https://www.youtube.com/watch?v=Ahwoks_dawU",
     texture: "/textures/project/project5.mp4",
     logo: "/assets/project-logo5.png",
@@ -229,18 +229,18 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "TailwindCSS",
-        path: "assets/tailwindcss.png",
+        name: "CSS",
+        path: "assets/css.png",
       },
       {
         id: 3,
         name: "TypeScript",
-        path: "/assets/typescript.png",
+        path: "/assets/blank.png",
       },
       {
         id: 4,
         name: "Framer Motion",
-        path: "/assets/framer.png",
+        path: "/assets/blank.png",
       },
     ],
   },
