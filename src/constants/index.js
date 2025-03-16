@@ -101,7 +101,7 @@ export const myProjects = [
       "Designed with smooth animations and an interactive UI, this portfolio highlights my expertise in modern web development, blending creativity with performance.",
     href: "https://www.youtube.com/watch?v=y5vE8y_f_OM",
     texture: "/textures/project/project2.mp4",
-    logo: "/assets/project-logo2.png",
+    logo: "/public/assets/project2-logo.png",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
@@ -289,7 +289,7 @@ export const workExperiences = [
     duration: "2022 - Present",
     title:
       "I am currently pursuing my Bachelor of Science Honours in Information Technology, specializing in Information Technology, at SLIIT. I am learning a variety of programming languages, frameworks, and tools that will help me build robust and scalable applications.",
-    icon: "/assets/graduation-cap.png",
+    icon: "/assets/degree-icon.png",
     animation: "victory",
   },
   {
@@ -299,7 +299,7 @@ export const workExperiences = [
     duration: "2019 - 2021",
     title:
       "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
-    icon: "/assets/exam.png",
+    icon: "/assets/criteria.png",
     animation: "clapping",
   },
   {
@@ -309,7 +309,7 @@ export const workExperiences = [
     duration: "2016 - 2018",
     title:
       "I pursued my Ordinary Level education at Sri Dharmaloka College, Kelaniya, earning 1A, 3Bs, and 5Cs.",
-    icon: "/assets/school-bag.png",
+    icon: "/assets/primary-icon.png",
     animation: "salute",
   },
 ];

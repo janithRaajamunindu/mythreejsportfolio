@@ -21,13 +21,19 @@ const Footer = () => {
             />
           </div>
         </a>
-        <div className="social-icon">
-          <img
-            src="/assets/twitter.svg"
-            alt="twitter"
-            className="w-1/2 h-1/2"
-          />
-        </div>
+        <a
+          href="https://www.linkedin.com/in/janith-raajamunindu/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="social-icon">
+            <img
+              src="/assets/inlogo.png"
+              alt="linkedin"
+              className="w-1/2 h-1/2"
+            />
+          </div>
+        </a>
         <a
           href="https://www.instagram.com/_datboii.janith/"
           target="_blank"
