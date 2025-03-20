@@ -64,15 +64,15 @@ const About = () => {
                 backgroundImageOpacity={0.5}
                 showAtmosphere
                 showGraticules
-                globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
+                globeImageUrl="//unpkg.com/three-globe/example/img/earth-day.jpg"
                 bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
                 labelsData={[
                   {
-                    lat: 7.8731,
-                    lng: 80.7718,
-                    text: "I'm here",
+                    lat: 40,
+                    lng: -100,
+                    text: "Im Here!",
                     color: "white",
-                    size: 20,
+                    size: 15,
                   },
                 ]}
               />
