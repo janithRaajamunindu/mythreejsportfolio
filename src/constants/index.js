@@ -298,7 +298,7 @@ export const workExperiences = [
     pos: "Sri Dharmaloka College - Kelaniya",
     duration: "2019 - 2021",
     title:
-      "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
+      "I sat for my Advanced Level examination in the Commerce stream and obtained 2 C passes and 1 S pass.",
     icon: "/assets/criteria.png",
     animation: "clapping",
   },
