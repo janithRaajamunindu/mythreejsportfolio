@@ -62,7 +62,7 @@ export const myProjects = [
     desc: "Suburbia is a cutting-edge 3D e-commerce platform that caters to skateboard enthusiasts. It offers a wide range of products, including customization. all designed to meet the needs of modern skateboarders.",
     subdesc:
       "Built as a unique Software-as-a-Service app with Next.js 15, GSAP, Three.js and Prismic, Suburbia is designed for optimal performance and scalability.",
-    href: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
+    href: "https://suburbia-skatess.netlify.app/",
     texture: "/textures/project/project1.mp4",
     logo: "/assets/project1-logo.svg",
     logoStyle: {
@@ -99,7 +99,7 @@ export const myProjects = [
     desc: "An amazing portfolio featuring the Bolby cursor effect, showcasing all my projects and skills. Built with Next.js, Tailwind CSS, and Framer Motion.",
     subdesc:
       " Designed with smooth animations and an interactive UI, this portfolio highlights my expertise in modern web development, blending creativity with performance, while ensuring a seamless user experience across all devices.",
-    href: "https://www.youtube.com/watch?v=y5vE8y_f_OM",
+    href: "https://v0-interview-prep-pi.vercel.app/",
     texture: "/textures/project/project2.mp4",
     logo: "/assets/project2-logo.png",
     logoStyle: {
@@ -135,10 +135,10 @@ export const myProjects = [
     title: "Interview Preperation App",
     desc: "Your personal guide to ace interviews — practice questions, tips, and mock sessions all in one place!",
     subdesc:
-      "nterview Prep App is your personal guide to ace job interviews, offering a collection of practice questions, expert tips, and mock interview sessions to boost your confidence. The app is developed using Next.js and styled with Tailwind CSS, ensuring a fast, responsive, and user-friendly experience tailored for seamless preparation.",
+      "Interview Prep App is your personal guide to ace job interviews, offering a collection of practice questions, expert tips, and mock interview sessions to boost your confidence. The app is developed using Next.js and styled with Tailwind CSS, ensuring a fast, responsive, and user-friendly experience tailored for seamless preparation.",
     href: "https://v0-interview-prep-pi.vercel.app/",
     texture: "/textures/project/project3.mp4",
-    logo: "/assets/html-logo.png",
+    logo: "/assets/favicon.ico",
     logoStyle: {
       backgroundColor: "#60f5a1",
       background:
@@ -150,13 +150,13 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "React.js",
-        path: "/assets/blank.png",
+        name: "Next.js",
+        path: "/assets/nextjs.png",
       },
       {
         id: 2,
         name: "TailwindCSS",
-        path: "assets/blank.png",
+        path: "assets/tailwindcss.png",
       },
       {
         id: 3,
@@ -175,7 +175,7 @@ export const myProjects = [
     desc: "A modern and responsive movie app built with React and TailwindCSS, leveraging the TMDB API to provide users with up-to-date movie details, trending films, and search functionality.",
     subdesc:
       "This movie app offers an intuitive and visually appealing interface for discovering movies and exploring trending content. It integrates the TMDB API to fetch real-time movie data, including ratings, overviews, and posters. Styled with TailwindCSS.",
-    href: "https://www.youtube.com/watch?v=PuOVqP_cjkE",
+    href: "https://v0-interview-prep-pi.vercel.app/",
     texture: "/textures/project/project4.mp4",
     logo: "/assets/react.svg",
     logoStyle: {
@@ -212,7 +212,7 @@ export const myProjects = [
     desc: "The Scroll Animation Effects project is a fun and simple experiment I worked on in my free time.",
     subdesc:
       "This project was built using HTML and CSS focusing on creating a visually appealing and interactive scrolling experience. The animations are lightweight, easy to customize, and work well on both desktop and mobile screens. It was a fun way to explore scroll-based effects and improve front-end development skills.",
-    href: "https://www.youtube.com/watch?v=Ahwoks_dawU",
+    href: "https://v0-interview-prep-pi.vercel.app/",
     texture: "/textures/project/project5.mp4",
     logo: "/assets/html-logo.png",
     logoStyle: {
