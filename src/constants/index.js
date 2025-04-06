@@ -132,11 +132,11 @@ export const myProjects = [
     ],
   },
   {
-    title: "ICOLand - NFT website using HTML & CSS",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc.",
+    title: "Interview Preperation App",
+    desc: "Your personal guide to ace interviews — practice questions, tips, and mock sessions all in one place!",
     subdesc:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc.",
-    href: "https://www.youtube.com/watch?v=lEflo_sc82g",
+      "nterview Prep App is your personal guide to ace job interviews, offering a collection of practice questions, expert tips, and mock interview sessions to boost your confidence. The app is developed using Next.js and styled with Tailwind CSS, ensuring a fast, responsive, and user-friendly experience tailored for seamless preparation.",
+    href: "https://v0-interview-prep-pi.vercel.app/",
     texture: "/textures/project/project3.mp4",
     logo: "/assets/html-logo.png",
     logoStyle: {
